@@ -1,6 +1,6 @@
 ![logo](https://github.com/Mrunalikale21/Mrunalikale21/blob/main/poster.jpg.png)
 <h1 align="center">Hi 👋, I'm Mrunali Kale</h1>
-<h3 align="center">A passionate Computer Engineering student from India from India</h3>
+<h3 align="center">A passionate Computer Engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunalikale21&label=Profile%20views&color=0e75b6&style=flat" alt="mrunalikale21" /> </p>
 
