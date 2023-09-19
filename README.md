@@ -1,3 +1,4 @@
+![logo](https://github.com/Mrunalikale21/Mrunalikale21/blob/main/poster.jpg.png)
 <h1 align="center">Hi 👋, I'm Mrunali Kale</h1>
 <h3 align="center">A passionate Computer Engineering student from India from India</h3>
 
